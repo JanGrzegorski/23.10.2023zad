@@ -1,0 +1,105 @@
+body{
+    background-image: url(hero-bg.jpg.webp);
+    background-repeat: no-repeat ;
+    height: 100vh;  
+}
+header{
+    justify-items: center;
+    margin: 15px;
+    margin-bottom: 20px;
+   
+}
+.nav-item{
+    color: white;
+    list-style: none;
+    align-items: center;
+    
+
+}
+.nav{
+    margin-top:25px;
+    border-top: 1px solid rgba(255,255,255,0.2);
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+    
+ul{
+    padding: 15px;
+}
+.banner-content h6 {
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+.banner-content {
+    margin-top: 100px;
+}
+.banner-content h1 {
+    font-size: 60px;
+    font-weight: 700;
+    margin: 20px 0;
+}
+.banner-content p {
+    max-width: 515px;
+    margin-bottom: 30px;
+    
+}
+.primary-btn {
+    background: #f42f2c;
+    line-height: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    position: relative;
+}
+.col-lg-12 {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+h6 {
+    font-size: 14px;
+}
+.section-gap {
+    padding: 120px 0;
+}
+section {
+    display: block;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+a, a:focus, a:hover {
+    text-decoration: none;
+    outline: 0;
+}
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: transparent;
+text-align: left;
+color: #777;
+font-family: "Poppins",sans-serif;
+font-size: 14px;
+font-weight: 300;
+line-height: 1.625em;
+box-sizing: border-box;
+display: block;
+padding: 120px 0;
+background: #f9f9ff;
